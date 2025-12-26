@@ -1,0 +1,8 @@
+{
+    "author" : "lrl",
+    "date" : "2025/12/26",
+    "name" : "MainWindow",
+    "version" : "1.0.0",
+    "des" : "主窗口插件",
+    "dependencies" : []
+}

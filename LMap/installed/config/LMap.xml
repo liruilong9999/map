@@ -1,0 +1,12 @@
+<root>
+    <pluginList> 
+        <plugin name="主界面插件" path="MainWindow" isUsed="1" />
+    </pluginList>
+	<paramList>
+		<!-- 域id默认为50，这里必须配置 -->
+		<param name="dds域id1(态势显示域)"   mark="root.domainid1.data" data="50" />
+		<param name="dds域id2(回放域)"   mark="root.domainid2.data" data="51" />
+		<param name="测试名称"  mark="root.str1.data"     data="str1111" />
+		<param name="测试名称2" mark="root.num1.data"     data="345"     />
+	</paramList>
+</root>

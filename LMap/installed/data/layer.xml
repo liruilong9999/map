@@ -1,0 +1,4 @@
+<mapLayers>
+	<mapLayer name="tif地图1" zValue="0" path="./data/env/world.tif" type="Type_Tiff" />
+	<mapLayer name="瓦片地图1" zValue="1" path="./data/env/img/" type="Type_XYZ"/>
+</mapLayers>
